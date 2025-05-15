@@ -1,4 +1,4 @@
-Hello! My name is Amanda Tum. I am a college student and an aspiring computer scientist. 
+Hello! My name is Amanda Tum. I am a bachelor student studying computer science.
 
 I am passionate about creating solutions to computer and business problems. In my free time, I also devote myself to designing and creating small models.
 
